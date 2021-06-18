@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Brave-Girls-Profile/static/css/main.4e68030d.chunk.css",
+    "main.js": "/Brave-Girls-Profile/static/js/main.8cc5f853.chunk.js",
+    "main.js.map": "/Brave-Girls-Profile/static/js/main.8cc5f853.chunk.js.map",
+    "runtime-main.js": "/Brave-Girls-Profile/static/js/runtime-main.97deded0.js",
+    "runtime-main.js.map": "/Brave-Girls-Profile/static/js/runtime-main.97deded0.js.map",
+    "static/css/2.a7a85ca3.chunk.css": "/Brave-Girls-Profile/static/css/2.a7a85ca3.chunk.css",
+    "static/js/2.10f4eeae.chunk.js": "/Brave-Girls-Profile/static/js/2.10f4eeae.chunk.js",
+    "static/js/2.10f4eeae.chunk.js.map": "/Brave-Girls-Profile/static/js/2.10f4eeae.chunk.js.map",
+    "static/js/3.ee7aa63d.chunk.js": "/Brave-Girls-Profile/static/js/3.ee7aa63d.chunk.js",
+    "static/js/3.ee7aa63d.chunk.js.map": "/Brave-Girls-Profile/static/js/3.ee7aa63d.chunk.js.map",
+    "index.html": "/Brave-Girls-Profile/index.html",
+    "static/css/2.a7a85ca3.chunk.css.map": "/Brave-Girls-Profile/static/css/2.a7a85ca3.chunk.css.map",
+    "static/css/main.4e68030d.chunk.css.map": "/Brave-Girls-Profile/static/css/main.4e68030d.chunk.css.map",
+    "static/js/2.10f4eeae.chunk.js.LICENSE.txt": "/Brave-Girls-Profile/static/js/2.10f4eeae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97deded0.js",
+    "static/css/2.a7a85ca3.chunk.css",
+    "static/js/2.10f4eeae.chunk.js",
+    "static/css/main.4e68030d.chunk.css",
+    "static/js/main.8cc5f853.chunk.js"
+  ]
+}
