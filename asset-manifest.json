@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Brave-Girls-Profile/static/css/main.4e68030d.chunk.css",
-    "main.js": "/Brave-Girls-Profile/static/js/main.05c5cb10.chunk.js",
-    "main.js.map": "/Brave-Girls-Profile/static/js/main.05c5cb10.chunk.js.map",
+    "main.css": "/Brave-Girls-Profile/static/css/main.c70cc12e.chunk.css",
+    "main.js": "/Brave-Girls-Profile/static/js/main.297f08df.chunk.js",
+    "main.js.map": "/Brave-Girls-Profile/static/js/main.297f08df.chunk.js.map",
     "runtime-main.js": "/Brave-Girls-Profile/static/js/runtime-main.97deded0.js",
     "runtime-main.js.map": "/Brave-Girls-Profile/static/js/runtime-main.97deded0.js.map",
     "static/css/2.a7a85ca3.chunk.css": "/Brave-Girls-Profile/static/css/2.a7a85ca3.chunk.css",
-    "static/js/2.10f4eeae.chunk.js": "/Brave-Girls-Profile/static/js/2.10f4eeae.chunk.js",
-    "static/js/2.10f4eeae.chunk.js.map": "/Brave-Girls-Profile/static/js/2.10f4eeae.chunk.js.map",
+    "static/js/2.a2371c4a.chunk.js": "/Brave-Girls-Profile/static/js/2.a2371c4a.chunk.js",
+    "static/js/2.a2371c4a.chunk.js.map": "/Brave-Girls-Profile/static/js/2.a2371c4a.chunk.js.map",
     "static/js/3.ee7aa63d.chunk.js": "/Brave-Girls-Profile/static/js/3.ee7aa63d.chunk.js",
     "static/js/3.ee7aa63d.chunk.js.map": "/Brave-Girls-Profile/static/js/3.ee7aa63d.chunk.js.map",
     "index.html": "/Brave-Girls-Profile/index.html",
     "static/css/2.a7a85ca3.chunk.css.map": "/Brave-Girls-Profile/static/css/2.a7a85ca3.chunk.css.map",
-    "static/css/main.4e68030d.chunk.css.map": "/Brave-Girls-Profile/static/css/main.4e68030d.chunk.css.map",
-    "static/js/2.10f4eeae.chunk.js.LICENSE.txt": "/Brave-Girls-Profile/static/js/2.10f4eeae.chunk.js.LICENSE.txt",
+    "static/css/main.c70cc12e.chunk.css.map": "/Brave-Girls-Profile/static/css/main.c70cc12e.chunk.css.map",
+    "static/js/2.a2371c4a.chunk.js.LICENSE.txt": "/Brave-Girls-Profile/static/js/2.a2371c4a.chunk.js.LICENSE.txt",
     "static/media/eunji.96e61bb4.jpg": "/Brave-Girls-Profile/static/media/eunji.96e61bb4.jpg",
     "static/media/logo.dee18f54.png": "/Brave-Girls-Profile/static/media/logo.dee18f54.png",
     "static/media/minyoung.a8f2e6e0.jpeg": "/Brave-Girls-Profile/static/media/minyoung.a8f2e6e0.jpeg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.97deded0.js",
     "static/css/2.a7a85ca3.chunk.css",
-    "static/js/2.10f4eeae.chunk.js",
-    "static/css/main.4e68030d.chunk.css",
-    "static/js/main.05c5cb10.chunk.js"
+    "static/js/2.a2371c4a.chunk.js",
+    "static/css/main.c70cc12e.chunk.css",
+    "static/js/main.297f08df.chunk.js"
   ]
 }
